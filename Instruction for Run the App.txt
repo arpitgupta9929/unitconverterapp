@@ -1,0 +1,12 @@
+##Instructions for Run the Application
+* After Unzip the code open the extracted Folder
+* Open the build named file and change the Android studio version according to your version.
+* Now open app folder and open build file then change the sdk version according to your version.
+* Now open Android studio software and On starting Window of Android Studio choose open existing project then select this code file.
+* Now build the code by click on build and if it gives some error then download the files which instructed by build.
+* When Build success then we need a appropriate USB driver to run this application on Android Device.
+* To download Usb driver go to tools of Android studio and open SDK manager then open SDK tools then check Google USB driver and press ok.
+* After install USB driver connect a Android device with Usb cable.
+* In Android Device go to About Phone and tap & times on Build Version.
+* Now go to Developer options and turn on Usb debugging.
+* Now on software Run the App.
